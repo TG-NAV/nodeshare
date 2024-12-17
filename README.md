@@ -26,7 +26,7 @@
 点击名称可以看到详情
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
-| --- | --- | --- | --- | --- | --- |
+| :------- | :----| :--- | :---------- | :--------- |
 | [ssone](#ssone) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 | ❌不支持 |
 | [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
