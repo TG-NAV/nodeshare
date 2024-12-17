@@ -29,7 +29,7 @@
 | :------- | :----| :--- | :---------- | :--------- |
 | [ssone](#ssone) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 | ❌不支持 |
 | [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
+| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [龙猫云](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=ra54cwhy) | 无 | 15元 100G/月 | ❌不支持 |
 | [Aladdin](#aladdin) | [https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr) | 无 | 30元 390G/半年 | ❌不支持 | 暂无 |
 | [xxai](#xxai) | [xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG) | 无 | 16.9元 100G/月 | ✔支持 |
