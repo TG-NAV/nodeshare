@@ -1,4 +1,4 @@
-# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-1-10-06:28
+# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-1-11-06:28
 
 
 
@@ -27,8 +27,6 @@
 | [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
 | [FC](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
-| [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) | [宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) |  | 5元 1000G/月 |  |
-| [三分机场](https://uk.sanfen.me/register?code=D3AphwEh) | [uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh) |  | 8元 200G/季 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
@@ -71,34 +69,10 @@
 
 * * *
 
-### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
-
-注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-
-试用：
-
-最便宜的订阅有8元 80G/月。
-
-全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
-
-* * *
 
 ### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
 
 注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
-
-试用：
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
-
-### [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
 
 试用：
 
