@@ -1,4 +1,4 @@
-# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-1-22-06:28
+# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-1-23-06:28
 
 
 
@@ -37,6 +37,7 @@
 | [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
+| [轻云](https://qingyun.world/#/register?code=C5zOLvph)| [qingyun.pro](https://qingyun.world/#/register?code=C5zOLvph) |  | 18元 100G/月 |  |
 
 
 ## [简介](#简介)
