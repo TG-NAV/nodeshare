@@ -68,17 +68,6 @@
 * * *
 
 
-### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
-
-注册链接：[点击注册](https://wl.awcmam.com/#/register?code=tsTYVbC0)
-
-试用：
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
