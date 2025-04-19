@@ -1,4 +1,4 @@
-# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-4-18 06:28
+# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-4-19 06:28
 
 
 
@@ -24,7 +24,6 @@
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 8 元 200G/月 |  |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -32,7 +31,6 @@
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 8 元 200G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph)| [点击进入](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
@@ -40,18 +38,7 @@
 
 ## [简介](#简介)
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-
-
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * **
 
 ### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
 
@@ -190,16 +177,5 @@
 
 * * *
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
 
