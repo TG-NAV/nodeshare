@@ -1,4 +1,4 @@
-# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-5-26 06:28
+# 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 2025-5-28 06:28
 
 
 
@@ -84,18 +84,6 @@
 * * *
 
 
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[点击注册](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
 
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
