@@ -25,11 +25,11 @@
 | :-- | :-- | :-- | :-- | :-- |
 | [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 200G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) |  |  | ✔支持 |
-| [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+| [星辰vpn](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西游云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  | |  |
+| [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9元 120G/月 |  | |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph)| [点击进入](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
 
@@ -84,9 +84,9 @@
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击注册](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击注册](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
@@ -116,9 +116,9 @@
 
 
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击注册](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击注册](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：
