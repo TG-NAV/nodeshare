@@ -4,13 +4,13 @@
 
 <h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://shop.nodeshare.xyz/" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
 
-2025 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。
+2025 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。.........
 
 ## [机场推荐说明](#机场推荐说明)
 
 近期常常收到私信或评论，希望我能测评某某机场。这里简单说明一下推荐标准。
 
-+   机场运营 2 年及以上。
++   机场运营 多年。
 +   官网能在中国大陆访问，且支持支付宝或微信等国内常用的支付方式。
 +   有较为活跃的用户群。
 +   存在有效的工单处理通道。
