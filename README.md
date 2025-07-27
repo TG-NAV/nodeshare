@@ -32,7 +32,6 @@
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1) |  | 9元 120G/月 |  | |  |
-| [火烧云](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph)| [点击进入](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
 
 
