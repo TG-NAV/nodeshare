@@ -122,18 +122,6 @@
 
 
 
-### [西游云](https://goudan.site/#/register?code=2mVFWPT1)
-
-注册链接：[点击注册](https://goudan.site/#/register?code=2mVFWPT1)
-
-
-试用：
-
-最便宜的订阅有9元 120G/月。
-
-最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
-
-* * *
 
 ### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
@@ -145,19 +133,6 @@
 最便宜的订阅有10元 100G/月。
 
 解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
-
-* * *
-
-### [加速啦](https://jiasu.la/?r=42350)
-
-注册链接：[点击注册](https://jiasu.la/?r=42350)
-
-
-试用：1G 不限时
-
-最便宜的订阅有10元 60G/月。
-
-全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
 
 * * *
 
