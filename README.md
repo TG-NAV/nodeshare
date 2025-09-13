@@ -2,7 +2,7 @@
 # 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐) 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！!!!
 
-<h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://shop.nodeshare.xyz/" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
+<h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://shop.idbb.me/" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
 
 2025 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。.........
 
@@ -31,7 +31,7 @@
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西游云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1) |  | 9元 120G/月 |  | |  |
+| [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  | |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph)| [点击进入](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
 
 
