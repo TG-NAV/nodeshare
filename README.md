@@ -6,7 +6,7 @@
 
 ## 🚀 每天更新最新免费节点clash，v2ray订阅链接地址
 
-<h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://shop.idbb.me/" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
+<h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://goso002.com?from=32977" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
 
 2025 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。.........
 
