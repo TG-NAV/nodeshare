@@ -181,10 +181,10 @@
 * * *
 ### Clash订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/10/20251027.yaml
+[https://raw.githubusercontent.com/TG-NAV/nodeshare/refs/heads/main/clash.yaml](https://raw.githubusercontent.com/TG-NAV/nodeshare/refs/heads/main/clash.yaml)
 
 ### V2ray订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/10/20251027.txt
+[https://raw.githubusercontent.com/TG-NAV/nodeshare/refs/heads/main/v2ray.txt](https://raw.githubusercontent.com/TG-NAV/nodeshare/refs/heads/main/v2ray.txt)
 
 * * *
