@@ -141,17 +141,6 @@
 * * *
 
 
-### [火烧云](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-注册链接：[点击注册](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-试用：无
-
-最便宜的订阅有18元 100G/月。
-
-这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。
-
-* * *
 
 ### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
