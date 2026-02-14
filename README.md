@@ -30,7 +30,6 @@
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
-| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) |  |  | ✔支持 |
 | [星辰vpn](http://c.xcvpn.me/?path=register&code=jWv0CnPO) | [点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
@@ -57,17 +56,6 @@
 
 *  *   *
 
-### [冲上云霄](https://cpdd.one/?r=42354)
-
-点击注册：[点击进入](https://cpdd.one/?r=42354)
-
-试用：1天 1G
-
-最便宜的订阅有10元 300G/30天。
-
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-* * *
 <h3></h3>
 <h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?path=register&code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
 <h3>· 高速·稳定·无限可能</h3>
@@ -156,18 +144,6 @@
 * * *
 
 
-
-### [冲上云霄](https://cpdd.one/?r=42354)
-
-点击注册：[点击进入](https://cpdd.one/?r=42354)
-
-试用：1天 1G
-
-最便宜的订阅有10元 300G/30天。
-
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-* * *
 ### Clash订阅链接
 
 [https://raw.githubusercontent.com/TG-NAV/nodeshare/refs/heads/main/clash.yaml](https://raw.githubusercontent.com/TG-NAV/nodeshare/refs/heads/main/clash.yaml)
