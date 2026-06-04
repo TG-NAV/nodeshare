@@ -30,7 +30,7 @@
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
-| [星辰vpn](http://c.xcvpn.me/?path=register&code=jWv0CnPO) | [点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
+| [星辰vpn](http://c.kilxs.cn/?path=register&code=jWv0CnPO) | [点击进入](http://c.kilxs.cn/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
@@ -74,23 +74,12 @@
 
 
 
-### [冰灵加速器](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
-
-注册链接：[点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
-
-试用：
-
-最便宜的订阅有5.9元 39G/月。
-
-便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
 
 * * *
 
-### [星辰VPN](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
+### [星辰VPN](http://c.kilxs.cn/?path=register&code=jWv0CnPO)
 
-注册链接：[点击注册](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
+注册链接：[点击注册](http://c.kilxs.cn/?path=register&code=jWv0CnPO)
 
 试用：
 
