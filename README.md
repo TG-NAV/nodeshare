@@ -34,7 +34,7 @@
 | [星辰vpn](http://c.kilxs.cn/?path=register&code=jWv0CnPO) | [点击进入](http://c.kilxs.cn/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
-| [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
+| [快猫](https://www.8891888.xyz/#/register?code=9xg6G0AV) | [点击进入](https://www.8891888.xyz/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://e.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://e.xiyou666.xyz/?code=2mVFWPT1) |  | 9元 120G/月 |  | |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph)| [点击进入](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
 
@@ -126,9 +126,9 @@
 
 
 
-### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
+### [快猫](https://www.8891888.xyz/#/register?code=9xg6G0AV)
 
-注册链接：[点击注册](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
+注册链接：[点击注册](https://www.8891888.xyz/#/register?code=9xg6G0AV)
 
 
 试用：无
